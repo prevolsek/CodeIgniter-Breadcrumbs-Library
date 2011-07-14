@@ -33,7 +33,7 @@ CREATE TABLE "pages" (
   "parent_id" int(10) unsigned DEFAULT NULL,
   "active" int(1) unsigned DEFAULT '1',
   PRIMARY KEY ("id")
-) AUTO_INCREMENT=17;
+) AUTO_INCREMENT=0;
 
 
 
